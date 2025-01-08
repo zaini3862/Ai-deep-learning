@@ -24,3 +24,5 @@ error
 give remote
 git remote add origin https://github.com/zaini3862
 git push --set-upstrem origin master for branch selection""""
+
+"getting in detail"
